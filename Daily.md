@@ -9,7 +9,7 @@
 - Introduction about Python Programming
 
 ## 🎥 Recording Video
-- [[Link to Recording](https://drive.google.com/file/d/1B9mmb47juUMr4JmBUwHjD0EUwSLzSA_V/view?usp=drive_link)](#)
+- [[Link to Recording](https://drive.google.com/file/d/1xC-_Md0LcJDOLctwpmky07fu-Ajasiti/view?usp=drive_link)](#)
 
 ## 📝 Assignment
 - Find answers to below questions:
