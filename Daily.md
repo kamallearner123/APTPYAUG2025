@@ -1,6 +1,7 @@
 # Python Training Daily Update
+---
 
-# Date:** 25-08-2025  
+# Date: 25-08-2025  
 
 ---
 
@@ -30,3 +31,4 @@
 
 ## 🔗 References
 - [[Resource 1](https://drive.google.com/file/d/12NzdPdGs_Rd8Z1w5A4RaU1gaQze3ldjk/view?usp=drive_link)](# Introduction)
+---
