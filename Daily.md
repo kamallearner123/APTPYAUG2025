@@ -29,4 +29,4 @@
    - Compare and contrast Python and C++ in terms of interpreted vs compiled execution and their use as general-purpose languages.  
 
 ## 🔗 References
-- [[Resource 1](https://drive.google.com/file/d/12NzdPdGs_Rd8Z1w5A4RaU1gaQze3ldjk/view?usp=drive_link)](#)
+- [[Resource 1](https://drive.google.com/file/d/12NzdPdGs_Rd8Z1w5A4RaU1gaQze3ldjk/view?usp=drive_link)](# Introduction)
