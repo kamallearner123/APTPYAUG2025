@@ -1,6 +1,6 @@
 # Python Training Daily Update
 
-**Date:** 25-08-2025  
+# Date:** 25-08-2025  
 
 ---
 
