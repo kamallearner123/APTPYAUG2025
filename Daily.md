@@ -50,5 +50,6 @@
 
 ## 🔗 References
 - [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)](# Introduction)
-- [[Jupyter notebook] (https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%202%20-%20Python%20Basics%20-%20Data%20Types%2C%20Operators%2C%20and%20Control%20Structures/01_variables_and_basic_types.ipynb)](# Introduction)
+- [[Jupyter notebook] : https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%202%20-%20Python%20Basics%20-%20Data%20Types%2C%20Operators%2C%20and%20Control%20Structures/01_variables_and_basic_types.ipynb
+- 
 ---
