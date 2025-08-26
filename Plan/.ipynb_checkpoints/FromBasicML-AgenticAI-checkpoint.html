@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preparation Guide: From Basic Machine Learning to LLMs and Agentic AI</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1 { text-align: center; color: #333; }
+        h2 { color: #0056b3; border-bottom: 1px solid #ddd; padding-bottom: 10px; }
+        h3 { color: #007bff; }
+        ul { list-style-type: disc; margin-left: 20px; }
+        ol { list-style-type: decimal; margin-left: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .section { margin-bottom: 40px; }
+    </style>
+</head>
+<body>
+
+<h1>Preparation Guide: From Basic Machine Learning to LLMs and Agentic AI</h1>
+
+<p>This guide provides a step-by-step progression from foundational machine learning concepts to advanced topics in Large Language Models (LLMs) and Agentic AI. Each topic builds on the previous ones, with recommended subtopics, key concepts, and resources for self-study. Aim to spend 1-4 weeks per major topic, depending on your background. Practice with code implementations using Python libraries like scikit-learn, TensorFlow, or PyTorch.</p>
+
+<div class="section">
+    <h2>Topic 1: Fundamentals of Machine Learning</h2>
+    <p>Start here if you're new to ML. Focus on understanding data, models, and evaluation.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Introduction to ML</strong>: Types of learning (supervised, unsupervised, reinforcement). Key terms: features, labels, training vs. testing data.</li>
+        <li><strong>Data Preparation</strong>: Handling missing data, normalization, feature engineering.</li>
+        <li><strong>Basic Algorithms</strong>:
+            <ul>
+                <li>Linear Regression: Predicting continuous values.</li>
+                <li>Logistic Regression: Binary classification.</li>
+                <li>Decision Trees and Random Forests: Handling non-linear data.</li>
+                <li>K-Nearest Neighbors (KNN): Simple classification/regression.</li>
+            </ul>
+        </li>
+        <li><strong>Evaluation Metrics</strong>: Accuracy, precision, recall, F1-score, MSE, RMSE.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Book: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron (Chapters 1-4).</li>
+        <li>Online Course: Andrew Ng's Machine Learning on Coursera.</li>
+        <li>Practice: Kaggle datasets for simple projects.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 2: Intermediate Machine Learning</h2>
+    <p>Build on basics with more complex models and techniques.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Unsupervised Learning</strong>: K-Means clustering, Hierarchical clustering, PCA for dimensionality reduction.</li>
+        <li><strong>Ensemble Methods</strong>: Bagging, Boosting (e.g., AdaBoost, Gradient Boosting), XGBoost.</li>
+        <li><strong>Support Vector Machines (SVM)</strong>: Kernel tricks for non-linear classification.</li>
+        <li><strong>Model Selection and Hyperparameter Tuning</strong>: Cross-validation, Grid Search, Random Search.</li>
+        <li><strong>Handling Imbalanced Data</strong>: Oversampling, undersampling, SMOTE.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Book: "Python Machine Learning" by Sebastian Raschka (Chapters 5-8).</li>
+        <li>Online Course: fast.ai's Practical Deep Learning for Coders (intro parts).</li>
+        <li>Practice: Implement ensembles on UCI ML Repository datasets.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 3: Introduction to Deep Learning</h2>
+    <p>Shift to neural networks, the foundation for modern AI.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Neural Networks Basics</strong>: Perceptrons, activation functions (ReLU, Sigmoid), backpropagation.</li>
+        <li><strong>Feedforward Networks</strong>: Multi-layer perceptrons (MLPs) for classification/regression.</li>
+        <li><strong>Optimization</strong>: Gradient Descent, SGD, Adam optimizer, learning rates.</li>
+        <li><strong>Regularization</strong>: Dropout, L1/L2 regularization, early stopping.</li>
+        <li><strong>Convolutional Neural Networks (CNNs)</strong>: For image data; convolutions, pooling, filters.</li>
+        <li><strong>Recurrent Neural Networks (RNNs)</strong>: For sequences; LSTMs, GRUs to handle vanishing gradients.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Book: "Deep Learning" by Ian Goodfellow et al. (Chapters 1-10, skim math-heavy parts).</li>
+        <li>Online Course: deeplearning.ai Specialization on Coursera.</li>
+        <li>Practice: Build a simple CNN on MNIST or CIFAR-10 using Keras/TensorFlow.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 4: Natural Language Processing (NLP) Fundamentals</h2>
+    <p>Bridge to language models by learning text processing.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Text Preprocessing</strong>: Tokenization, stemming, lemmatization, stop words removal.</li>
+        <li><strong>Representations</strong>: Bag-of-Words, TF-IDF, Word Embeddings (Word2Vec, GloVe).</li>
+        <li><strong>Sequence Models</strong>: RNNs/LSTMs for sentiment analysis, named entity recognition.</li>
+        <li><strong>Topic Modeling</strong>: LDA, NMF for unsupervised text analysis.</li>
+        <li><strong>Sequence-to-Sequence Models</strong>: Encoders-decoders for machine translation.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Book: "Speech and Language Processing" by Jurafsky and Martin (Chapters 1-6).</li>
+        <li>Online Course: NLP Specialization on Coursera by deeplearning.ai.</li>
+        <li>Practice: Sentiment analysis on IMDB reviews using NLTK and scikit-learn.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 5: Transformers and Attention Mechanisms</h2>
+    <p>Core architecture for LLMs.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Attention Mechanism</strong>: Self-attention, multi-head attention, query-key-value.</li>
+        <li><strong>Transformer Architecture</strong>: Encoder-decoder structure, positional encodings.</li>
+        <li><strong>BERT and Variants</strong>: Bidirectional pre-training, masked language modeling.</li>
+        <li><strong>GPT Models</strong>: Autoregressive training, decoder-only transformers.</li>
+        <li><strong>Scaling Laws</strong>: How model size and data affect performance.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Paper: "Attention Is All You Need" by Vaswani et al.</li>
+        <li>Online Course: Hugging Face's NLP Course.</li>
+        <li>Practice: Fine-tune a BERT model on Hugging Face Transformers library.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 6: Large Language Models (LLMs)</h2>
+    <p>Understand how LLMs work and are used.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>Pre-training and Fine-tuning</strong>: Objectives like next-token prediction, instruction tuning.</li>
+        <li><strong>Prompt Engineering</strong>: Zero-shot, few-shot, chain-of-thought prompting.</li>
+        <li><strong>Evaluation of LLMs</strong>: Benchmarks like GLUE, SuperGLUE, perplexity.</li>
+        <li><strong>Ethical Considerations</strong>: Bias, hallucinations, safety alignments (RLHF).</li>
+        <li><strong>Deployment</strong>: Inference optimization, quantization, APIs like OpenAI.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Paper: "Language Models are Few-Shot Learners" (GPT-3 paper).</li>
+        <li>Online Course: Prompt Engineering Guide on GitHub or Anthropic's resources.</li>
+        <li>Practice: Experiment with GPT models via APIs or local setups with Llama.</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Topic 7: Agentic AI</h2>
+    <p>Advanced AI that acts autonomously.</p>
+    <h3>Subtopics:</h3>
+    <ol>
+        <li><strong>AI Agents Basics</strong>: Definition, components (perception, reasoning, action).</li>
+        <li><strong>Tool Use and Integration</strong>: Calling external APIs, function calling in LLMs.</li>
+        <li><strong>Planning and Reasoning</strong>: ReAct framework (Reason + Act), tree-of-thoughts.</li>
+        <li><strong>Multi-Agent Systems</strong>: Collaboration between agents, simulation environments.</li>
+        <li><strong>Reinforcement Learning in Agents</strong>: RL for decision-making, combining with LLMs.</li>
+        <li><strong>Applications</strong>: Autonomous coding, web navigation, research assistants.</li>
+    </ol>
+    <h3>Resources:</h3>
+    <ul>
+        <li>Paper: "ReAct: Synergizing Reasoning and Acting in Language Models".</li>
+        <li>Online Course: LangChain or AutoGen tutorials for building agents.</li>
+        <li>Practice: Build a simple agent using LangChain that interacts with tools.</li>
+    </ul>
+</div>
+
+<p>Final Tips: Code everything you learn. Join communities like Reddit's r/MachineLearning or Discord servers for AI. Track progress with personal projects, like building an LLM-based chatbot agent.</p>
+
+</body>
+</html>
