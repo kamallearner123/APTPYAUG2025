@@ -12,7 +12,7 @@
 - [[Link to Recording](https://drive.google.com/file/d/1IacLZ9wm-gU0XSiQZIv8tTy_vJrF44Hw/view?usp=drive_link)]
 
 ## 📝 Assignment
-   MCQ: https://forms.gle/DsLUe3XmZcMz9XnP7
+   Assignment 01: [[Link to Recording](https://docs.google.com/document/d/1QEbNgLushaOgdnXYfwxfXvN5bmzrtABt/edit?usp=drive_link&ouid=112725247001480157932&rtpof=true&sd=true)]
 
 ## 🔗 References
 - [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)]
