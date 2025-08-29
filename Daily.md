@@ -1,5 +1,24 @@
 # Python Training Daily Update
 ---
+# Date: 28-08-2025  
+
+---
+
+## 📘 Topic
+- Loops, break, else.
+- Programs using loops.
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1IacLZ9wm-gU0XSiQZIv8tTy_vJrF44Hw/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ: https://forms.gle/DsLUe3XmZcMz9XnP7
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)]
+  
+---
+---
 # Date: 27-08-2025  
 
 ---
