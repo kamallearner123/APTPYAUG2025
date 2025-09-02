@@ -1,5 +1,23 @@
 # Python Training Daily Update
 ---
+# Date: 01-09-2025  
+
+---
+
+## 📘 Topic
+- Lists
+
+## 🎥 Recording Video
+- [[Link to Recording](NA)]
+
+## 📝 Assignment
+   Assignment 01: [[Link to MCQ](https://forms.gle/GMfNmgvaPMhYW4Y79)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)]
+  
+---
+---
 # Date: 28-08-2025  
 
 ---
