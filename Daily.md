@@ -1,5 +1,23 @@
 # Python Training Daily Update
 ---
+# Date: 04-09-2025  
+
+---
+
+## 📘 Topic
+- Dictionaries, Sets
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1ENwKILvrusZ_m1PemxolkaRJcZHWojuL/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ 01: [[Link to MCQ](https://forms.gle/8WCKF7oLFaWMkhxF6)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)]
+  
+---
+---
 # Date: 01-09-2025  
 
 ---
