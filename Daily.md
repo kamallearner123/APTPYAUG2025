@@ -1,5 +1,25 @@
 # Python Training Daily Update
 ---
+# Date: 08-09-2025  
+
+---
+
+## 📘 Topic
+- Problem Statement
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1a3s6klCuyrdlgsywcejPLnOnIxrkfNDO/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ 01: [[Link to MCQ](https://forms.gle/h5rWDp7H5mc5jFtc9)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1K-hnuZ9bmDhtvPvQhZtB8_HswM7FNlm3/view?usp=drive_link)]
+- [[Jupyter Notebook](https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%204%20-%20Data%20Structures%20in%20Python/APTPY25AUG2025_Sep08_Problems.ipynb)]
+  
+---
+
+---
 # Date: 04-09-2025  
 
 ---
