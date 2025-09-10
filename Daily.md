@@ -1,4 +1,25 @@
 # Python Training Daily Update
+
+---
+# Date: 10-09-2025  
+
+---
+
+## 📘 Topic
+- Regular expression
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1Vjjg--2JPtYaqAbDQviOXoMbyBhAYEv2/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ 01: [[Link to MCQ](https://forms.gle/NHuSerT8iE4NrmU86)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1FRtaEdjnpQ8BYZvW4ny2MaLJQFN_ZPKf/view?usp=drive_link)]
+- [[Jupyter Notebook](http://localhost:8888/notebooks/Chapter%205%20-%20File%20Handling%2C%20Exceptions%2C%20and%20Modules%2FSep10_RegularExp.ipynb)]
+  
+---
+
 ---
 # Date: 08-09-2025  
 
