@@ -1,5 +1,23 @@
 # Python Training Daily Update
+---
+# Date: 22-09-2025  
 
+---
+
+## 📘 Topic
+- OOPS: Classes, objects, constructors, methods
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1dz6lMHARv6il7smDwPrZGWRicfQ2X5fO/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ 01: [[Link to MCQ](https://forms.gle/cvogzHWaUsrwQ1n27)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1cYjv3LTQyRCvmUZ6AlLr4t8Caug-U0yM/view?usp=drive_link)]
+- [[Jupyter Notebook](https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%206%20-%20Object-Oriented%20Programming%20in%20Python/Classes.ipynb)]
+  
+---
 ---
 # Date: 10-09-2025  
 
