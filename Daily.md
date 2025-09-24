@@ -1,7 +1,6 @@
 # Python Training Daily Update
 
 
-https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%207%20-%20Data%20Manipulation%20with%20NumPy%20and%20Pandas/Practice%20-%20Data%20Manipulation.ipynb
 ---
 # Date: 23-09-2025  
 
