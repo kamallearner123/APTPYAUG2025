@@ -2,6 +2,25 @@
 
 
 ---
+# Date: 24-09-2025  
+
+---
+
+## 📘 Topic
+- Numpy
+  
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/file/d/1TM8uzTdovnIKbJ48hOe8kZc4M6S7EVaI/view?usp=drive_link)]
+
+## 📝 Assignment
+   MCQ 01: [[Link to Tutorials](https://www.kaggle.com/code/themlphdstudent/learn-numpy-numpy-50-exercises-and-solution)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1VElXnt-1WpoKJX_7St81DoJdVUtdlXHh/view?usp=drive_link)]
+- [[Jupyter Notebook Pandas](https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%207%20-%20Data%20Manipulation%20with%20NumPy%20and%20Pandas/NumpyArrays.ipynb)]
+  
+---
+---
 # Date: 23-09-2025  
 
 ---
