@@ -1,5 +1,20 @@
 # Python Training Daily Update
+---
+# Date: 06-10-2025  
 
+---
+
+## 📘 Topic
+- Basics of Machine Learning
+  
+## 📝 Assignment
+   MCQ 01: [[Link to Tutorials](https://forms.gle/4E26FYFxiYMGbFpH9)]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1ghOPuBdtJEGXzmPwa3EFtodZLDmmdj1U/view?usp=drive_link)]
+- [[A Sample Code](https://github.com/kamallearner123/APTPYAUG2025/blob/main/Programs/ML_LinearRegression/Students_LinearRegression.py)]
+  
+---
 
 ---
 # Date: 24-09-2025  
