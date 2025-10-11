@@ -1,4 +1,24 @@
 # Python Training Daily Update
+
+---
+# Date: 09-10-2025  
+
+---
+
+## 📘 Topic
+- Supervised Machine Learning
+
+## 🎥 Recording Video
+- [[Link to Recording](https://drive.google.com/drive/folders/1Q4_-bvbCiJRIxXo-B-fF-1OjppOPEUYQ?usp=drive_link)]
+  
+## 📝 Assignment
+   Assignement: [[Link to Tutorials](https://github.com/kamallearner123/APTPYAUG2025/tree/main/JupyterNotebooks/Assignments/ML_Medium_5Pack_Notebooks%20(2))]
+
+## 🔗 References
+- [[Slide 1](https://drive.google.com/file/d/1ghOPuBdtJEGXzmPwa3EFtodZLDmmdj1U/view?usp=drive_link)]
+- [[A Sample Code](https://github.com/kamallearner123/APTPYAUG2025/blob/main/JupyterNotebooks/Chapter%2010%20-%20Supervised%20Learning%20-%20Regression%20and%20Classification/Practices.ipynb)]
+  
+---
 ---
 # Date: 06-10-2025  
 
